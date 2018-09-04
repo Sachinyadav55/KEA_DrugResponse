@@ -1,0 +1,7 @@
+stats,number,label
+accuracy,75,2c
+sensitivity,80,2c
+specificity,71.43,2c
+accuracy,87.5,9c
+sensitivity,100,9c
+specificity,80,9c

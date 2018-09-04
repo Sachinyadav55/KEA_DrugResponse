@@ -1,0 +1,6 @@
+# A NAMESPACE is strictly required by R 2.14 or higher.
+# Export everything
+exportPattern(".")
+import(AnnotationDbi)
+import(utils)
+

@@ -1,0 +1,12 @@
+Package: DrugResponse
+Type: Package
+Title: Drug Response
+Version: 0.1.2
+Date: 2015-07-21
+Author: Cai Huang
+Maintainer: Cai Huang <chuang95@gatech.edu>
+Description: R package use for predicting drug response of patients
+License: *
+RoxygenNote: 5.0.1
+NeedsCompilation: no
+Packaged: 2016-06-17 21:45:10 UTC; caihuang

@@ -1,0 +1,15 @@
+Package: hgu133plus2cdf
+Title: hgu133plus2cdf
+Version: 2.18.0
+Created: Thu Oct 8 13:53:17 2015
+Author: The Bioconductor Project
+Description: A package containing an environment representing the HG-U133_Plus_2.cdf file.
+Maintainer: Bioconductor Package Maintainer <maintainer@bioconductor.org>
+License: LGPL
+biocViews: AnnotationData, AffymetrixChip, cdf, hgu133plus2,
+        Homo_sapiens
+Depends: utils
+Imports: AnnotationDbi
+NeedsCompilation: no
+Packaged: 2015-10-08 21:55:05 UTC; jmacdon
+Built: R 3.2.3; ; 2017-01-11 19:42:34 UTC; unix

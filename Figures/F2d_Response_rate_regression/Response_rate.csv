@@ -1,0 +1,8 @@
+drug,predicted_response_rate,observed_literature_response_rate
+Gefitinib,2,6
+Cisplatin,58,60
+Doxorubicin,5,20
+Docetaxel,36,28
+Paclitaxel,56,75
+Carboplatin,75,75
+Gemcitabine,58,47

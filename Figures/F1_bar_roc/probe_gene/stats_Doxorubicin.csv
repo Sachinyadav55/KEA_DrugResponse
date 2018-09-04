@@ -1,0 +1,7 @@
+stats,number,label
+accuracy,69.44,gene level
+sensitivity,33.33,gene level
+specificity,95.35,gene level
+accuracy,89.36,probe level
+sensitivity,83.33,probe level
+specificity,90.24,probe level

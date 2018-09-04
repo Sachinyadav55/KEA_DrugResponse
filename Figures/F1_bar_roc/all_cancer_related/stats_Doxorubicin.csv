@@ -1,0 +1,7 @@
+stats,number,label
+accuracy,59.57,cancer gene
+sensitivity,100,cancer gene
+specificity,40.63,cancer gene
+accuracy,89.36,probe level
+sensitivity,83.33,probe level
+specificity,90.24,probe level
